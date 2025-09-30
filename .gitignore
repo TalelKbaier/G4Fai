@@ -1,0 +1,23 @@
+# Environnement virtuel Python
+.venv/
+env/
+venv/
+
+# Fichiers de base de données
+*.db
+chat.db
+
+# Fichiers Python compilés
+__pycache__/
+*.pyc
+
+# Fichiers/dossiers système
+.DS_Store
+Thumbs.db
+
+# Dossiers de logs
+logs/
+*.log
+
+dist/
+build/
